@@ -1,0 +1,152 @@
+C:\Programas\SisTDS06\SisTDS06\bin\Debug\DbSis.mdf
+C:\Programas\SisTDS06\SisTDS06\bin\Debug\DbSis_log.ldf
+C:\Programas\SisTDS06\SisTDS06\bin\Debug\SisTDS06.exe.config
+C:\Programas\SisTDS06\SisTDS06\bin\Debug\SisTDS06.exe
+C:\Programas\SisTDS06\SisTDS06\bin\Debug\SisTDS06.pdb
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.csproj.AssemblyReference.cache
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.csproj.SuggestedBindingRedirects.cache
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.FormLogin.resources
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.csproj.CoreCompileInputs.cache
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.exe
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.pdb
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.FormSplash.resources
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.FormUsuario.resources
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.FormCliente.resources
+C:\Programas\SisTDS06\SisTDS06\obj\Debug\SisTDS06.FormProduto.resources
+C:\dfhfgh-main\bin\Debug\DbSis.mdf
+C:\dfhfgh-main\bin\Debug\DbSis_log.ldf
+C:\dfhfgh-main\bin\Debug\SisTDS06.exe.config
+C:\dfhfgh-main\bin\Debug\SisTDS06.exe
+C:\dfhfgh-main\bin\Debug\SisTDS06.pdb
+C:\dfhfgh-main\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormVenda.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormCliente.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormLogin.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormProduto.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormSplash.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.FormUsuario.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\dfhfgh-main\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\dfhfgh-main\obj\Debug\SisTDS06.exe
+C:\dfhfgh-main\obj\Debug\SisTDS06.pdb
+C:\talvezterminado-main\bin\Debug\DbSis.mdf
+C:\talvezterminado-main\bin\Debug\DbSis_log.ldf
+C:\talvezterminado-main\bin\Debug\SisTDS06.exe.config
+C:\talvezterminado-main\bin\Debug\SisTDS06.exe
+C:\talvezterminado-main\bin\Debug\SisTDS06.pdb
+C:\talvezterminado-main\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormVenda.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormCliente.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormLogin.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormProduto.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormSplash.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.FormUsuario.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\talvezterminado-main\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\talvezterminado-main\obj\Debug\SisTDS06.exe
+C:\talvezterminado-main\obj\Debug\SisTDS06.pdb
+C:\talvezterminado-main - Copia\bin\Debug\DbSis.mdf
+C:\talvezterminado-main - Copia\bin\Debug\DbSis_log.ldf
+C:\talvezterminado-main - Copia\bin\Debug\SisTDS06.exe.config
+C:\talvezterminado-main - Copia\bin\Debug\SisTDS06.exe
+C:\talvezterminado-main - Copia\bin\Debug\SisTDS06.pdb
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormVenda.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormCliente.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormLogin.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormProduto.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormSplash.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.FormUsuario.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.exe
+C:\talvezterminado-main - Copia\obj\Debug\SisTDS06.pdb
+C:\essesse\bin\Debug\DbSis.mdf
+C:\essesse\bin\Debug\DbSis_log.ldf
+C:\essesse\bin\Debug\SisTDS06.exe.config
+C:\essesse\bin\Debug\SisTDS06.exe
+C:\essesse\bin\Debug\SisTDS06.pdb
+C:\essesse\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\essesse\obj\Debug\SisTDS06.FormVenda.resources
+C:\essesse\obj\Debug\SisTDS06.FormCliente.resources
+C:\essesse\obj\Debug\SisTDS06.FormLogin.resources
+C:\essesse\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\essesse\obj\Debug\SisTDS06.FormProduto.resources
+C:\essesse\obj\Debug\SisTDS06.FormSplash.resources
+C:\essesse\obj\Debug\SisTDS06.FormUsuario.resources
+C:\essesse\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\essesse\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\essesse\obj\Debug\SisTDS06.exe
+C:\essesse\obj\Debug\SisTDS06.pdb
+C:\Lojinha-windows-forms-main\bin\Debug\DbSis.mdf
+C:\Lojinha-windows-forms-main\bin\Debug\DbSis_log.ldf
+C:\Lojinha-windows-forms-main\bin\Debug\SisTDS06.exe.config
+C:\Lojinha-windows-forms-main\bin\Debug\SisTDS06.exe
+C:\Lojinha-windows-forms-main\bin\Debug\SisTDS06.pdb
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormVenda.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormCliente.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormLogin.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormProduto.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormSplash.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.FormUsuario.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.exe
+C:\Lojinha-windows-forms-main\obj\Debug\SisTDS06.pdb
+C:\Users\Aluno\Lojinha-main\bin\Debug\DbSis.mdf
+C:\Users\Aluno\Lojinha-main\bin\Debug\DbSis_log.ldf
+C:\Users\Aluno\Lojinha-main\bin\Debug\SisTDS06.exe.config
+C:\Users\Aluno\Lojinha-main\bin\Debug\SisTDS06.exe
+C:\Users\Aluno\Lojinha-main\bin\Debug\SisTDS06.pdb
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormVenda.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormCliente.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormLogin.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormProduto.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormSplash.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.FormUsuario.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.exe
+C:\Users\Aluno\Lojinha-main\obj\Debug\SisTDS06.pdb
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormVenda.resources
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormCliente.resources
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormProduto.resources
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormSplash.resources
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormUsuario.resources
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.exe
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.pdb
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\bin\Debug\DbSis.mdf
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\bin\Debug\DbSis_log.ldf
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\bin\Debug\SisTDS06.exe.config
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\bin\Debug\SisTDS06.exe
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\bin\Debug\SisTDS06.pdb
+C:\Users\Aluno\a-ougue.main-main\Lojinha-main\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\bin\Debug\DbSis.mdf
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\bin\Debug\DbSis_log.ldf
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\bin\Debug\SisTDS06.exe.config
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\bin\Debug\SisTDS06.exe
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\bin\Debug\SisTDS06.pdb
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.csprojAssemblyReference.cache
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormVenda.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormCliente.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormPrincipal.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormProduto.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormSplash.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.FormUsuario.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.Properties.Resources.resources
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.csproj.GenerateResource.cache
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.exe
+C:\Users\Aluno\a-ougue.ctm-main\açougue.main-main\Lojinha-main\obj\Debug\SisTDS06.pdb
